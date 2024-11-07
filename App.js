@@ -20,7 +20,7 @@ class App extends Component{
           style={{ width: 300, height: 300 }}
         />
 
-        <Text style={{ fontSize: 30 }}> {nome} </Text>
+        <Text style={{ fontSize: 40 }}> {nome} </Text>
 
       </View>
     );
